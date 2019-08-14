@@ -1,2 +1,2 @@
 # Stats202-FinalProject
-Forecasting and classification done on PANNS assessment data including 5 studies of patients with schizophrenia.
+Analysis of a study testing the potential effects of a treatment for patients with schizophrenia. Processes include hypothesis testing for the effects of the treatment under scrutiny, patient segmentation into clusters based on baseline assessments, patient symptom forecasting using the PANSS metric in evaluating symptoms of schizophrenia, and finally classification of assessments as erroneous by either flagging or assigning such an assessment to a clinical specialist.
